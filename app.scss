@@ -1,0 +1,6 @@
+@import "nav.small";
+
+@media screen and (min-width: 40em) {
+  /* Medium and up */
+  @import "nav.medium";
+}
